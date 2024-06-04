@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @owills004
+- 👋
+-  print("Hi, I’m @owills004")
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++, HTML 
+- 🌱 I’m currently learning python, HTML, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +233 54 249 2009
 - 😄 Pronouns: he
