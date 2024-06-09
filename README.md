@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python, HTML, c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +233 54 249 2009
+- 📫 How to reach me +233 54 249 2009/ otabilwilfred@gmail.com / waotabil@st.ug.edu.gh
 - 😄 Pronouns: he
   
 
